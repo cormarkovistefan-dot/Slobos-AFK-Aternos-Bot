@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TorlakSMP.aternos.me",
-    "port": 45532,
+    "port": 24186,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ja sam fam boy",
+        "mjauuuuu!",
+        "volim da gledam ph!"
       ]
     },
     "chat-log": true,
